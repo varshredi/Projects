@@ -1,0 +1,2 @@
+module Arithmetic_caluclator {
+}
